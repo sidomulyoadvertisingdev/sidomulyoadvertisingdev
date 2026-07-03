@@ -16,11 +16,11 @@
 
 <!-- ═══════════════════════ SOCIAL LINKS — REAL ICONS ═══════════════════════ -->
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sidomulyoadv.com-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d2137)](https://sidomulyoadv.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sidomulyoadv.com-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d2137)](https://sidomulyoproject.com)
 [![GitHub](https://img.shields.io/badge/GitHub-sidomulyoadvertisingdev-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d2137)](https://github.com/sidomulyoadvertisingdev)
 [![Gmail](https://img.shields.io/badge/Gmail-sosmedsidomulyo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d2137)](mailto:sosmedsidomulyo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sidomulyo_Dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d2137)](https://linkedin.com/in/sidomulyo-dev)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_With_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d2137)](https://wa.me/6285XXXXXXXXX)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_With_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d2137)](https://wa.me/6282325980067)
 
 <br/>
 
